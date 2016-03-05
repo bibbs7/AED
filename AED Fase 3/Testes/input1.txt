@@ -1,0 +1,65 @@
+LF boss
+
+PV smellycat
+
+LH sracorderosa
+
+IU boss aa@bb passos coelho
+
+LF costa
+
+LH costa
+
+LF boss
+
+LH boss
+
+IV vid1 passos http://aqui.com/ -1 dejavu.avi
+
+IV vid1 boss http://aqui.com/ -1 dejavu.avi
+
+IV vid1 boss http://aqui.com/ 1000 dejavu.avi
+
+VV vid2 passos
+
+VV vid1 passos
+
+VV vid1 boss
+
+LH costa
+
+LH boss
+
+VV vid1 boss
+
+VV vid1 boss
+
+VV vid1 boss
+
+LH boss
+
+RH costa
+
+RH boss
+
+LH boss
+
+LF boss
+
+FV vid2 passos 
+
+LF boss
+
+FV vid1 passos 
+
+LF boss
+
+FV vid1 boss 
+
+FV vid1 boss 
+
+LF boss
+
+XS
+
+

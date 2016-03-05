@@ -1,0 +1,139 @@
+IU anon anon@iol.pt anonimo
+
+IV rcosta anon http://anonymous.ps 4 RegressoCosta
+
+IV rsocrates anon http://anonymous.ps 8 RegressoSocrates
+
+LV anon
+
+LF passos
+
+LF nick2
+
+FV video3 nick2
+
+RV 3video passos
+
+FV video3 passos
+
+LF passos
+
+FV rcosta passos
+
+FV rsocrates passos
+
+LF passos
+
+IU jeronimo jeronimo@iol.pcp jeronimos
+
+IU rElvas relvas@freedegrees.lol RelvasVerdes
+
+IV aLuTa rElvas http://lol.green 365 aLutaContinua
+
+IV greenWorlD relvas http://green.lol 8 GreenWorld
+
+IV greenWorlD2 relvas http://green.lol 16 GreenWorld2
+
+IV greenWorlD3 relvas http://green.lol 32 GreenWorld3
+
+IV greenWorlD4 relvas http://green.lol 64 GreenWorld4
+
+IV greenworlD5 relvas http://green.lol 128 GreenWorld5
+
+LV relvas
+
+FV greenWorlD passos
+
+FV greenWorlD passos
+
+FV greenWorlD2 passos
+
+FV greenWorlD3 passos
+
+FV greenWorlD4 passos
+
+FV greenWorlD5 passos
+
+FV greenWorlD6 passos
+
+LF passos
+
+FV aluta nick7
+
+LF passos
+
+DV aluta
+
+LF passos
+
+FV aluta relvas
+
+FV rcosta passos
+
+FV rcosta coelho
+
+RV aluta2 passos
+
+RV aluta coelho
+
+RV rcosta relvas
+
+TV rcosta facil
+
+TV vaiemboracosta dificil
+
+TV vaiemborapassos dificil
+
+TV rcosta facil
+
+TV aLuta rcp
+
+TV greenWorld saga
+
+TV greenWorld2 verde
+
+TV greenworld3 relvas
+
+LT rcosta
+
+LT aLuta
+
+LT aluta2
+
+TV rcosta greenworld
+
+TV rcosta pt
+
+LT rcosta
+
+TV rcosta lol
+
+PV rcp
+
+pv facil
+
+IV saipassos jeronimo http://easy.lol 3 SaiPassos
+
+IV entracosta jeronimo http://easy.lol 2 EntraCosta
+
+IV saicosta jeronimo http://easy.lol 1 SaiCosta
+
+TV saipassos facil
+
+TV saipassos facil
+
+TV entracosta facil
+
+TV saicosta facil
+
+PV facil
+
+DV entracosta
+
+PV facil
+
+LV jeronimo
+
+XS
+
+

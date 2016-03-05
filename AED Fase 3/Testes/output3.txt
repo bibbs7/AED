@@ -1,0 +1,141 @@
+Utilizador existente.
+
+Insercao de utilizador com sucesso.
+
+Utilizador existente.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Video adicionado com sucesso.
+
+Video existente.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+video4 video4.avi 121 ativo
+VIDEO3 video3.avi 115 ativo
+Video2 video2.avi 135 ativo
+video1 video1.avi 120 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+video1 video1.avi 120 ativo
+Video2 video2.avi 135 ativo
+VIDEO3 video3.avi 115 ativo
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Video desativado com sucesso.
+
+video4 video4.avi 121 ativo
+VIDEO3 video3.avi 115 ativo
+Video2 video2.avi 135 ativo
+video1 video1.avi 120 inativo
+
+video1 video1.avi 120 inativo
+Video2 video2.avi 135 ativo
+VIDEO3 video3.avi 115 ativo
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+Historico vazio.
+
+Video adicionado a favoritos com sucesso.
+
+Utilizador nao tem favoritos.
+
+Video adicionado a favoritos com sucesso.
+
+Video inativo.
+
+video4 video4.avi 121 ativo
+
+VIDEO3 video3.avi 115 ativo
+
+Utilizador nao tem favoritos.
+
+Video nao e favorito de nick.
+
+Video removido de favoritos com sucesso.
+
+Utilizador nao tem favoritos.
+
+Video inativo.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Video ja tem tag.
+
+Video ja tem tag.
+
+Tag adicionada a video com sucesso.
+
+Tag1
+Tag2
+Tag3
+Tag4
+
+MYTAG1
+aTAG2
+theTAG3
+
+Video nao tem tags.
+
+YetAnotherTag
+
+Video2 video2.avi 135 ativo
+
+video4 video4.avi 121 ativo
+
+vid1 dejavu.avi 1000 inativo
+
+vid1 dejavu.avi 1000 inativo
+
+video1 video1.avi 120 inativo
+
+Video2 video2.avi 135 ativo
+
+VIDEO3 video3.avi 115 ativo
+
+video4 video4.avi 121 ativo
+
+Nick inexistente.
+
+Insercao de utilizador com sucesso.
+
+Nick nao inseriu videos.
+
+Gravando e terminando...
+

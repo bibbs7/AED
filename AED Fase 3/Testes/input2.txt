@@ -1,0 +1,55 @@
+LT vid1
+
+TV vid2 smellycat
+
+LT vid1
+
+TV vid1 smellycat
+
+LT vid1
+
+TV vid1 smellycat
+
+LT vid1
+
+PV boss
+
+PV vid1
+
+PV smellycat
+
+VV vid1 boss
+
+VV vid1 boss
+
+VV vid1 boss
+
+DV vid2
+
+DV vid1
+
+DV vid1
+
+PV sracorderosa
+
+LT vid1
+
+LF boss
+
+LH boss
+
+RH boss
+
+LH boss
+
+LF boss
+
+RV vid2 boss
+
+RV vid1 boss
+
+LF boss
+
+XS
+
+

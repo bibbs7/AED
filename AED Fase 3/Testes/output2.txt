@@ -1,0 +1,56 @@
+Video nao tem tags.
+
+Video inexistente.
+
+Video nao tem tags.
+
+Tag adicionada a video com sucesso.
+
+smellycat
+
+Video ja tem tag.
+
+smellycat
+
+Tag inexistente.
+
+Tag inexistente.
+
+vid1 dejavu.avi 1000 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video inexistente.
+
+Video desativado com sucesso.
+
+Video inativo.
+
+Tag inexistente.
+
+smellycat
+
+vid1 dejavu.avi 1000 inativo
+
+vid1 dejavu.avi 1000 inativo
+vid1 dejavu.avi 1000 inativo
+vid1 dejavu.avi 1000 inativo
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+vid1 dejavu.avi 1000 inativo
+
+Video inexistente.
+
+Video removido de favoritos com sucesso.
+
+Utilizador nao tem favoritos.
+
+Gravando e terminando...
+

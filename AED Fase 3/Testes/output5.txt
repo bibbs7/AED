@@ -1,0 +1,137 @@
+Utilizador existente.
+
+Insercao de utilizador com sucesso.
+
+Video existente.
+
+Nick inexistente.
+
+Utilizador existente.
+
+Video adicionado com sucesso.
+
+queda queda do governO 10 ativo
+
+Duracao invalida.
+
+Video adicionado com sucesso.
+
+abc lol 2 ativo
+campanha campanha.avi 15 ativo
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+abc lol 2 ativo
+bcd lol 3 ativo
+campanha campanha.avi 15 ativo
+cde lol 4 ativo
+
+Historico vazio.
+
+video4 video4.avi 121 ativo
+
+Video desativado com sucesso.
+
+abc lol 2 inativo
+bcd lol 3 ativo
+campanha campanha.avi 15 ativo
+cde lol 4 ativo
+
+Video visualizado com sucesso.
+
+Video inexistente.
+
+Video inativo.
+
+queda queda do governO 10 ativo
+
+Nick inexistente.
+
+queda queda do governO 10 ativo
+
+Nick inexistente.
+
+video4 video4.avi 121 ativo
+
+Insercao de utilizador com sucesso.
+
+Nick nao inseriu videos.
+
+Video inexistente.
+
+Video inativo.
+
+Nick inexistente.
+
+Nick nao inseriu videos.
+
+Historico vazio.
+
+Video visualizado com sucesso.
+
+queda queda do governO 10 ativo
+
+Nick inexistente.
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+Limpeza de historico efetuada com sucesso.
+
+Video inexistente.
+
+Video inativo.
+
+Video visualizado com sucesso.
+
+abc lol 2 inativo
+bcd lol 3 ativo
+campanha campanha.avi 15 ativo
+cde lol 4 ativo
+
+queda queda do governO 10 ativo
+
+Video adicionado com sucesso.
+
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Video inativo.
+
+Video visualizado com sucesso.
+
+bcd lol 3 ativo
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Video desativado com sucesso.
+
+bcd lol 3 inativo
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Utilizador nao tem favoritos.
+
+Nick inexistente.
+
+Utilizador nao tem favoritos.
+
+Utilizador nao tem favoritos.
+
+Gravando e terminando...
+
