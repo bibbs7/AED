@@ -1,0 +1,67 @@
+Nick inexistente.
+
+Tag inexistente.
+
+Nick inexistente.
+
+Insercao de utilizador com sucesso.
+
+Nick inexistente.
+
+Nick inexistente.
+
+Utilizador nao tem favoritos.
+
+Historico vazio.
+
+Nick inexistente.
+
+Duracao invalida.
+
+Video adicionado com sucesso.
+
+Video inexistente.
+
+Nick inexistente.
+
+Video visualizado com sucesso.
+
+Nick inexistente.
+
+vid1 dejavu.avi 1000 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+vid1 dejavu.avi 1000 ativo
+vid1 dejavu.avi 1000 ativo
+vid1 dejavu.avi 1000 ativo
+vid1 dejavu.avi 1000 ativo
+
+Nick inexistente.
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+Utilizador nao tem favoritos.
+
+Video inexistente.
+
+Utilizador nao tem favoritos.
+
+Nick inexistente.
+
+Utilizador nao tem favoritos.
+
+Video adicionado a favoritos com sucesso.
+
+Video ja e favorito de nick.
+
+vid1 dejavu.avi 1000 ativo
+
+Gravando e terminando...
+

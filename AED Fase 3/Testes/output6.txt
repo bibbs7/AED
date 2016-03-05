@@ -1,0 +1,177 @@
+Insercao de utilizador com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+rcosta RegressoCosta 4 ativo
+rsocrates RegressoSocrates 8 ativo
+
+Utilizador nao tem favoritos.
+
+VIDEO3 video3.avi 115 ativo
+
+Video ja e favorito de nick.
+
+Video inexistente.
+
+Video adicionado a favoritos com sucesso.
+
+VIDEO3 video3.avi 115 ativo
+
+Video adicionado a favoritos com sucesso.
+
+Video adicionado a favoritos com sucesso.
+
+rcosta RegressoCosta 4 ativo
+rsocrates RegressoSocrates 8 ativo
+VIDEO3 video3.avi 115 ativo
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+aLuTa aLutaContinua 365 ativo
+greenWorlD GreenWorld 8 ativo
+greenWorlD2 GreenWorld2 16 ativo
+greenWorlD3 GreenWorld3 32 ativo
+greenWorlD4 GreenWorld4 64 ativo
+greenworlD5 GreenWorld5 128 ativo
+
+Video adicionado a favoritos com sucesso.
+
+Video ja e favorito de nick.
+
+Video adicionado a favoritos com sucesso.
+
+Video adicionado a favoritos com sucesso.
+
+Video adicionado a favoritos com sucesso.
+
+Video adicionado a favoritos com sucesso.
+
+Video inexistente.
+
+greenWorlD GreenWorld 8 ativo
+greenWorlD2 GreenWorld2 16 ativo
+greenWorlD3 GreenWorld3 32 ativo
+greenWorlD4 GreenWorld4 64 ativo
+greenworlD5 GreenWorld5 128 ativo
+rcosta RegressoCosta 4 ativo
+rsocrates RegressoSocrates 8 ativo
+VIDEO3 video3.avi 115 ativo
+
+Nick inexistente.
+
+greenWorlD GreenWorld 8 ativo
+greenWorlD2 GreenWorld2 16 ativo
+greenWorlD3 GreenWorld3 32 ativo
+greenWorlD4 GreenWorld4 64 ativo
+greenworlD5 GreenWorld5 128 ativo
+rcosta RegressoCosta 4 ativo
+rsocrates RegressoSocrates 8 ativo
+VIDEO3 video3.avi 115 ativo
+
+Video desativado com sucesso.
+
+greenWorlD GreenWorld 8 ativo
+greenWorlD2 GreenWorld2 16 ativo
+greenWorlD3 GreenWorld3 32 ativo
+greenWorlD4 GreenWorld4 64 ativo
+greenworlD5 GreenWorld5 128 ativo
+rcosta RegressoCosta 4 ativo
+rsocrates RegressoSocrates 8 ativo
+VIDEO3 video3.avi 115 ativo
+
+Video inativo.
+
+Video ja e favorito de nick.
+
+Nick inexistente.
+
+Video inexistente.
+
+Nick inexistente.
+
+Video nao e favorito de nick.
+
+Tag adicionada a video com sucesso.
+
+Video inexistente.
+
+Video inexistente.
+
+Video ja tem tag.
+
+Video inativo.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+facil
+
+Video nao tem tags.
+
+Video inexistente.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+facil
+greenworld
+pt
+
+Tag adicionada a video com sucesso.
+
+Tag inexistente.
+
+rcosta RegressoCosta 4 ativo
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Video ja tem tag.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+entracosta EntraCosta 2 ativo
+rcosta RegressoCosta 4 ativo
+saicosta SaiCosta 1 ativo
+saipassos SaiPassos 3 ativo
+
+Video desativado com sucesso.
+
+entracosta EntraCosta 2 inativo
+rcosta RegressoCosta 4 ativo
+saicosta SaiCosta 1 ativo
+saipassos SaiPassos 3 ativo
+
+entracosta EntraCosta 2 inativo
+saicosta SaiCosta 1 ativo
+saipassos SaiPassos 3 ativo
+
+Gravando e terminando...
+

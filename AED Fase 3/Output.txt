@@ -1,0 +1,416 @@
+Nick inexistente.
+
+Tag inexistente.
+
+Nick inexistente.
+
+Insercao de utilizador com sucesso.
+
+Nick inexistente.
+
+Nick inexistente.
+
+Utilizador nao tem favoritos.
+
+Historico vazio.
+
+Nick inexistente.
+
+Duracao invalida.
+
+Video adicionado com sucesso.
+
+Video inexistente.
+
+Nick inexistente.
+
+Video visualizado com sucesso.
+
+Nick inexistente.
+
+vid1 dejavu.avi 1000 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+vid1 dejavu.avi 1000 ativo
+vid1 dejavu.avi 1000 ativo
+vid1 dejavu.avi 1000 ativo
+vid1 dejavu.avi 1000 ativo
+
+Nick inexistente.
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+Utilizador nao tem favoritos.
+
+Video inexistente.
+
+Utilizador nao tem favoritos.
+
+Nick inexistente.
+
+Utilizador nao tem favoritos.
+
+Video adicionado a favoritos com sucesso.
+
+Video ja e favorito de nick.
+
+vid1 dejavu.avi 1000 ativo
+
+Video nao tem tags.
+
+Video inexistente.
+
+Video nao tem tags.
+
+Tag adicionada a video com sucesso.
+
+smellycat
+
+Video ja tem tag.
+
+smellycat
+
+Tag inexistente.
+
+Tag inexistente.
+
+vid1 dejavu.avi 1000 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video inexistente.
+
+Video desativado com sucesso.
+
+Video inativo.
+
+Tag inexistente.
+
+smellycat
+
+vid1 dejavu.avi 1000 inativo
+
+vid1 dejavu.avi 1000 inativo
+vid1 dejavu.avi 1000 inativo
+vid1 dejavu.avi 1000 inativo
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+vid1 dejavu.avi 1000 inativo
+
+Video inexistente.
+
+Video removido de favoritos com sucesso.
+
+Utilizador nao tem favoritos.
+
+Utilizador existente.
+
+Insercao de utilizador com sucesso.
+
+Utilizador existente.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Insercao de utilizador com sucesso.
+
+Video adicionado com sucesso.
+
+Video existente.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+video4 video4.avi 121 ativo
+VIDEO3 video3.avi 115 ativo
+Video2 video2.avi 135 ativo
+video1 video1.avi 120 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+video1 video1.avi 120 ativo
+Video2 video2.avi 135 ativo
+VIDEO3 video3.avi 115 ativo
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Video desativado com sucesso.
+
+video4 video4.avi 121 ativo
+VIDEO3 video3.avi 115 ativo
+Video2 video2.avi 135 ativo
+video1 video1.avi 120 inativo
+
+video1 video1.avi 120 inativo
+Video2 video2.avi 135 ativo
+VIDEO3 video3.avi 115 ativo
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+Historico vazio.
+
+Video adicionado a favoritos com sucesso.
+
+Utilizador nao tem favoritos.
+
+Video adicionado a favoritos com sucesso.
+
+Video inativo.
+
+video4 video4.avi 121 ativo
+
+VIDEO3 video3.avi 115 ativo
+
+Utilizador nao tem favoritos.
+
+Video nao e favorito de nick.
+
+Video removido de favoritos com sucesso.
+
+Utilizador nao tem favoritos.
+
+Video inativo.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Tag adicionada a video com sucesso.
+
+Video ja tem tag.
+
+Video ja tem tag.
+
+Tag adicionada a video com sucesso.
+
+Tag1
+Tag2
+Tag3
+Tag4
+
+MYTAG1
+aTAG2
+theTAG3
+
+Video nao tem tags.
+
+YetAnotherTag
+
+Video2 video2.avi 135 ativo
+
+video4 video4.avi 121 ativo
+
+vid1 dejavu.avi 1000 inativo
+
+vid1 dejavu.avi 1000 inativo
+
+video1 video1.avi 120 inativo
+
+Video2 video2.avi 135 ativo
+
+VIDEO3 video3.avi 115 ativo
+
+video4 video4.avi 121 ativo
+
+Nick inexistente.
+
+Insercao de utilizador com sucesso.
+
+Nick nao inseriu videos.
+
+Video adicionado com sucesso.
+
+campanha campanha.avi 15 ativo
+
+video4 video4.avi 121 ativo
+VIDEO3 video3.avi 115 ativo
+Video2 video2.avi 135 ativo
+video1 video1.avi 120 inativo
+
+Video visualizado com sucesso.
+
+campanha campanha.avi 15 ativo
+
+Video visualizado com sucesso.
+
+Video2 video2.avi 135 ativo
+video4 video4.avi 121 ativo
+VIDEO3 video3.avi 115 ativo
+Video2 video2.avi 135 ativo
+video1 video1.avi 120 inativo
+
+Utilizador existente.
+
+Insercao de utilizador com sucesso.
+
+Video existente.
+
+Nick inexistente.
+
+Utilizador existente.
+
+Video adicionado com sucesso.
+
+queda queda do governO 10 ativo
+
+Duracao invalida.
+
+Video adicionado com sucesso.
+
+abc lol 2 ativo
+campanha campanha.avi 15 ativo
+
+Video adicionado com sucesso.
+
+Video adicionado com sucesso.
+
+abc lol 2 ativo
+bcd lol 3 ativo
+campanha campanha.avi 15 ativo
+cde lol 4 ativo
+
+Historico vazio.
+
+video4 video4.avi 121 ativo
+
+Video desativado com sucesso.
+
+abc lol 2 inativo
+bcd lol 3 ativo
+campanha campanha.avi 15 ativo
+cde lol 4 ativo
+
+Video visualizado com sucesso.
+
+Video inexistente.
+
+Video inativo.
+
+queda queda do governO 10 ativo
+
+Nick inexistente.
+
+queda queda do governO 10 ativo
+
+Nick inexistente.
+
+video4 video4.avi 121 ativo
+
+Insercao de utilizador com sucesso.
+
+Nick nao inseriu videos.
+
+Video inexistente.
+
+Video inativo.
+
+Nick inexistente.
+
+Nick nao inseriu videos.
+
+Historico vazio.
+
+Video visualizado com sucesso.
+
+queda queda do governO 10 ativo
+
+Nick inexistente.
+
+Limpeza de historico efetuada com sucesso.
+
+Historico vazio.
+
+Limpeza de historico efetuada com sucesso.
+
+Video inexistente.
+
+Video inativo.
+
+Video visualizado com sucesso.
+
+abc lol 2 inativo
+bcd lol 3 ativo
+campanha campanha.avi 15 ativo
+cde lol 4 ativo
+
+queda queda do governO 10 ativo
+
+Video adicionado com sucesso.
+
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+Video visualizado com sucesso.
+
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Video inativo.
+
+Video visualizado com sucesso.
+
+bcd lol 3 ativo
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Video desativado com sucesso.
+
+bcd lol 3 inativo
+queda queda do governO 10 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+queda2 texto mesmo mesmo muito comprido e longo... 5 ativo
+
+Utilizador nao tem favoritos.
+
+Nick inexistente.
+
+Utilizador nao tem favoritos.
+
+Utilizador nao tem favoritos.
+
+Gravando e terminando...
+
